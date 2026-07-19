@@ -45,14 +45,33 @@ This project helps answer:
 
 ## 📁 Repository Structure
 
-Punganur-Tomato-Price-Intelligence/
+Tomato-Price-Forecasting/
+│
 ├── data/
-│ └── clean_punganur_tomato_prices.csv
+│   ├── raw/
+│   └── processed/
+│
 ├── notebooks/
-│ └── tomato_price_analysis.ipynb
+│   ├── 01_Data_Cleaning_EDA.ipynb
+│   ├── 02_Feature_Engineering.ipynb
+│   └── 03_Time_Series_Forecasting.ipynb
+│
 ├── dashboard/
-│ └── powerbi_link.txt
-└── README.md
+│   ├── Tomato_Price_Dashboard.pbix
+│   └── Dashboard.pdf
+│
+├── forecasts/
+│   └── Tomato_2026_Forecast.csv
+│
+├── images/
+│   ├── dashboard_page1.png
+│   ├── dashboard_page2.png
+│   ├── forecast_chart.png
+│   └── historical_trend.png
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
 
 ---
 
