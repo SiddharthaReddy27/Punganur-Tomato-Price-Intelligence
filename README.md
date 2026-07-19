@@ -45,7 +45,10 @@ This project helps answer:
 
 ## 📁 Repository Structure
 
-Tomato-Price-Forecasting/
+## Repository Structure
+
+```text
+Tomato-Price-Analysis-&-Forecasting/
 │
 ├── data/
 │   ├── raw/
@@ -66,12 +69,11 @@ Tomato-Price-Forecasting/
 ├── images/
 │   ├── dashboard_page1.png
 │   ├── dashboard_page2.png
-│   ├── forecast_chart.png
-│   └── historical_trend.png
+│   └── forecast_chart.png
 │
 ├── requirements.txt
-├── README.md
-└── LICENSE
+└── README.md
+```
 
 ---
 
