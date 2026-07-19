@@ -45,8 +45,6 @@ This project helps answer:
 
 ## 📁 Repository Structure
 
-## Repository Structure
-
 ```text
 Tomato-Price-Analysis-&-Forecasting/
 │
